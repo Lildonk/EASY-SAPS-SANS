@@ -1,0 +1,31 @@
+Qnum,Category,Symptoms,Answer1,Answer2,Answer3,Answer4,Answer5,Answer6
+1,SAPS--Hallucinations,Auditory Hallucinations,0,1,2,3,4,5
+2,SAPS--Hallucinations,Voices Commenting,0,1,2,3,4,5
+3,SAPS--Hallucinations,Voices Conversing,0,1,2,3,4,5
+4,SAPS--Hallucinations,Somatic or Tactile Hallucinations,0,1,2,3,4,5
+5,SAPS--Hallucinations,Olfactory Hallucinations,0,1,2,3,4,5
+6,SAPS--Hallucinations,Visual Hallucinations,0,1,2,3,4,5
+7,SAPS--Delusions,Persecutory Delusions,0,1,2,3,4,5
+8,SAPS--Delusions,Delusions of Jealousy,0,1,2,3,4,5
+9,SAPS--Delusions,Delusions of Sin or Guilt,0,1,2,3,4,5
+10,SAPS--Delusions,Grandiose Delusions,0,1,2,3,4,5
+11,SAPS--Delusions,Religious Delusions,0,1,2,3,4,5
+12,SAPS--Delusions,Somatic Delusions,0,1,2,3,4,5
+13,SAPS--Delusions,Ideas and Delusions of Reference,0,1,2,3,4,5
+14,SAPS--Delusions,Delusions of Being Controlled,0,1,2,3,4,5
+15,SAPS--Delusions,Delusions of Mind Reading,0,1,2,3,4,5
+16,SAPS--Delusions,Thought Broadcasting,0,1,2,3,4,5
+17,SAPS--Delusions,Thought Insertion,0,1,2,3,4,5
+18,SAPS--Delusions,Thought Withdrawal,0,1,2,3,4,5
+19,SAPS--Bizarre Behaviour,Clothing and Appearance,0,1,2,3,4,5
+20,SAPS--Bizarre Behaviour,Social and Sexual Behavior,0,1,2,3,4,5
+21,SAPS--Bizarre Behaviour,Aggressive and Agitated Behavior,0,1,2,3,4,5
+22,SAPS--Bizarre Behaviour,Repetitive or Stereotyped Behavior,0,1,2,3,4,5
+23,SAPS--Positive Formal Thought Disorder,Derailment (loose associations),0,1,2,3,4,5
+24,SAPS--Positive Formal Thought Disorder,Tangentiality,0,1,2,3,4,5
+25,SAPS--Positive Formal Thought Disorder,"Incoherence (Word salad, Schizophasia)",0,1,2,3,4,5
+26,SAPS--Positive Formal Thought Disorder,Illogicality,0,1,2,3,4,5
+27,SAPS--Positive Formal Thought Disorder,Circumstantiality,0,1,2,3,4,5
+28,SAPS--Positive Formal Thought Disorder,Pressure of speech,0,1,2,3,4,5
+29,SAPS--Positive Formal Thought Disorder,Distractible speech,0,1,2,3,4,5
+30,SAPS--Positive Formal Thought Disorder,Clanging,0,1,2,3,4,5

@@ -1,0 +1,21 @@
+Qnum,Category,Symptoms,Answer1,Answer2,Answer3,Answer4,Answer5,Answer6
+1,SANS--Affective Flattening or Blunting,Unchanging Facial Expression,0,1,2,3,4,5
+2,SANS--Affective Flattening or Blunting,Decreased Spontaneous Movements,0,1,2,3,4,5
+3,SANS--Affective Flattening or Blunting,Paucity of Expressive Gestures,0,1,2,3,4,5
+4,SANS--Affective Flattening or Blunting,Poor Eye Contact,0,1,2,3,4,5
+5,SANS--Affective Flattening or Blunting,Affective Nonresponsivity,0,1,2,3,4,5
+6,SANS--Affective Flattening or Blunting,Lack of Vocal Inflections,0,1,2,3,4,5
+7,SANS--Affective Flattening or Blunting,Inappropriate Affect,0,1,2,3,4,5
+8,SANS--Alogia,Poverty of Speech,0,1,2,3,4,5
+9,SANS--Alogia,Poverty of Content of Speech,0,1,2,3,4,5
+10,SANS--Alogia,Blocking,0,1,2,3,4,5
+11,SANS--Alogia,Increased Latency of Response,0,1,2,3,4,5
+12,SANS--Avolition-Apathy,Grooming and Hygiene,0,1,2,3,4,5
+13,SANS--Avolition-Apathy,Impersistence at Work or School,0,1,2,3,4,5
+14,SANS--Avolition-Apathy,Physical Anergia,0,1,2,3,4,5
+15,SANS--Anhedonia-Asociality,Recreational Interests and Activities,0,1,2,3,4,5
+16,SANS--Anhedonia-Asociality,Sexual Interest and Activity,0,1,2,3,4,5
+17,SANS--Anhedonia-Asociality,Ability to Feel Intimacy and Closeness,0,1,2,3,4,5
+18,SANS--Anhedonia-Asociality,Relationships with Friends and Peers,0,1,2,3,4,5
+19,SANS--Attention,Social Inattentiveness,0,1,2,3,4,5
+20,SANS--Attention,Inattentiveness During Mental Status Testing,0,1,2,3,4,5

@@ -1,0 +1,13 @@
+name: CAT_SANS_SAPS
+title: CAT_SANS_SAPS
+username: cat-sans-saps
+account: cat-sans-saps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9472521
+bundleId: 7927496
+url: https://cat-sans-saps.shinyapps.io/CAT_SANS_SAPS/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|app_old.R
